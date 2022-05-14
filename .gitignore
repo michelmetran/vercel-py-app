@@ -1,3 +1,7 @@
+# Data
+_lixo/
+node_modules/
+
 # Vercel
 .vercel
 
