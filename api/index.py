@@ -15,6 +15,6 @@ class handler(BaseHTTPRequestHandler):
         if 'name' in dic:
             message = f'Hello, {b}!'
         else:
-            message = f'Hello, stranger! {a}'
+            message = f'Hello "{a}" stranger!'
             self.wfile.write(message.encode())
         return
