@@ -28,6 +28,7 @@ Precisa dar um comando ```vercel```, que vai...
 - https://vercel-py-app.vercel.app/api/index
 
 Com Pipfile   This Serverless Function has crashed.
+Com vercel.json, vai!!!!!
 
 <br>
 
