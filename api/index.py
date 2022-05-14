@@ -10,10 +10,10 @@ class handler(BaseHTTPRequestHandler):
         self.send_response(200)
         self.send_header('Content-type', 'text/plain')
         self.end_headers()
-        a = str(np.random.choice([1, 2, 3, 4, 5, 6]))
+        a = str(np.random.choice([1, 2, 3, 4, 5, 6])).encode()
         b = dic['name']
         if 'name' in dic:
-            message = f'Hello, {b}!'
+            message = f'Hello, "{b}"!'
         else:
             message = f'Hello "{a}" stranger!'
 
