@@ -1,4 +1,5 @@
-
+# Vercel
+.vercel
 
 # IDEs
 .idea/
@@ -133,3 +134,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.vercel
