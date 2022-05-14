@@ -2,14 +2,17 @@
 
 <br>
 
+Buscando alternativas para fazer o *deploy* de aplicações, testei inicialmente o *deploy* de aplicações puras (sem *frameworks*).
+
 - [Towards Data Science: How to Deploy a Python Serverless Function to Vercel](https://towardsdatascience.com/how-to-deploy-a-python-serverless-function-to-vercel-f43c8ca393a0)
-- https://vercel.com/docs/runtimes#official-runtimes/python
+- [Vercel | Official Runtimes | Python](https://vercel.com/docs/runtimes#official-runtimes/python)
+- [Using Vercel to host a Python API](https://www.frontend-devops.com/blog/python-on-vercel)
 
 <br>
 
 ----
 
-### Deploy via GitHub
+### *Deploy* via GitHub
 
 Só precisa dar um *push*, que vai...
 
@@ -22,15 +25,12 @@ Funciona. Bastante simples!!!
 
 ----
 
-### Deploy via Vercel
+### *Deploy* via Vercel
 
 Precisa dar um comando ```vercel```, que vai...
 
 - https://vercel.com/michelmetran/vercel-py-app
 - https://vercel-py-app.vercel.app/api/index
-
-Com Pipfile   This Serverless Function has crashed.
-Com vercel.json, vai!!!!!
 
 <br>
 
@@ -38,4 +38,4 @@ Com vercel.json, vai!!!!!
 
 ### Referências
 
-- [Using Vercel to host a Python API](https://www.frontend-devops.com/blog/python-on-vercel)
+1. ...
