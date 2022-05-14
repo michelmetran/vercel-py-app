@@ -25,4 +25,3 @@ Precisa dar um comando ```vercel```, que vai...
 
 - https://vercel.com/michelmetran/vercel-py-app
 - https://vercel-py-app.vercel.app/api/index
-
