@@ -11,14 +11,16 @@
 
 ### Deploy via GitHub
 
-Só precisa dar um push, que vai...
+Só precisa dar um *push*, que vai...
 
 - https://vercel.com/michelmetran/vercel-py-app-github
 - https://vercel-py-app-github.vercel.app/api/index
 
-Funciona!!!
+Funciona. Bastante simples!!!
 
 <br>
+
+----
 
 ### Deploy via Vercel
 
@@ -36,4 +38,4 @@ Com vercel.json, vai!!!!!
 
 ### Referências
 
-- https://www.frontend-devops.com/blog/python-on-vercel
+- [Using Vercel to host a Python API](https://www.frontend-devops.com/blog/python-on-vercel)
