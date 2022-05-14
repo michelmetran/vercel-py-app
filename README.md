@@ -19,8 +19,6 @@ Só precisa dar um *push*, que vai...
 - https://vercel.com/michelmetran/vercel-py-app-github
 - https://vercel-py-app-github.vercel.app/api/index
 
-Funciona. Bastante simples!!!
-
 <br>
 
 ----
