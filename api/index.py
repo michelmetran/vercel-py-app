@@ -3,7 +3,7 @@ from urllib import parse
 
 
 class handler(BaseHTTPRequestHandler):
-    def do_GET(self):
+    def do_get(self):
         s = self.path
         dic = dict(parse.parse_qsl(parse.urlsplit(s).query))
         self.send_response(200)
@@ -15,3 +15,4 @@ class handler(BaseHTTPRequestHandler):
             message = "Hello, stranger!"
             self.wfile.write(message.encode())
         return
+
