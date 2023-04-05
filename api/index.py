@@ -15,7 +15,7 @@ class handler(BaseHTTPRequestHandler):
             print(b)
             message = f'Hello "{b}"!'
         else:
-            a = str(np.random.choice([1, 2, 3, 4, 5, 6]))
+            a = np.random.choice([1, 2, 3, 4, 5, 6])
             print(a)
             message = f'Hello "{a}" stranger!'
 
