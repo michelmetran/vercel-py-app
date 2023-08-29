@@ -1,7 +1,5 @@
 # vercel-py-app
 
-<br>
-
 Buscando alternativas para fazer o *deploy* de aplicações, testei inicialmente o *deploy* de aplicações puras (sem *frameworks*).
 
 - [Towards Data Science: How to Deploy a Python Serverless Function to Vercel](https://towardsdatascience.com/how-to-deploy-a-python-serverless-function-to-vercel-f43c8ca393a0)
